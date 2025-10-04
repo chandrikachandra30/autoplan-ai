@@ -1,0 +1,8 @@
+openai
+langchain
+langgraph
+google-api-python-client
+notion-client
+fastapi
+uvicorn
+streamlit
